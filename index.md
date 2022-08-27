@@ -1,3 +1,11 @@
+# Nathanael Herman's First CS193 Homework
+
+Reasons I like CS 19300
+- It's computer science, and computer science is cool.
+- I want to learn how to use the terminal more than my random tinkering I do occasionally.
+- I actually have a GitHub account because of CS 19300, which is important.
+- Bulleted lists!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
